@@ -1,6 +1,6 @@
 ### FSOCIETE NERD 👋
 
-[![MasterHead](https://tecxar.io/blog/wp-content/uploads/2023/03/cd59d626dc86397fe45080e6e9c7027d.gif)]
+[![MasterHead][(https://tecxar.io/blog/wp-content/uploads/2023/03/cd59d626dc86397fe45080e6e9c7027d.gif)]
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
