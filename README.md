@@ -1,6 +1,6 @@
 ### FSOCIETE NERD 👋
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTC3ZgV0uaa40tqNJWsG0cumKeQLJ_d5Ji1q8wsXGPAUWAeJ3jzQK6AKjimfanliI2Ak&usqp=CAU)]
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTC3ZgV0uaa40tqNJWsG0cumKeQLJ_d5Ji1q8wsXGPAUWAeJ3jzQK6AKjimfanliI2Ak&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHPJZeHAAEx0Jo3E-1fphSES7BRE1088sBaN9ZyH9U4uVYFOyQZEfgNp-bYLzCjT0rRA&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
