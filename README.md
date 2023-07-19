@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Javascript, React.js, Python, Flutter-Dart, MySQL & Postgresql**
+- 💬 Ask me about **Python,Ruby-on-Rails,Flutter-Dart, MySQL & Postgresql**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120**
 
