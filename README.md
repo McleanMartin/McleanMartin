@@ -1,6 +1,6 @@
 ### FSOCIETE NERD 👋
 
-[![MasterHead](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)]
+[![MasterHead]([https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoclinks.net%2Fsoftware-page.html&psig=AOvVaw2KzQrocOPuKM0lQqnTH2k-&ust=1689841572740000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiq_MusmoADFQAAAAAdAAAAABAE))]
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
