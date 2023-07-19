@@ -2,7 +2,7 @@
 
 [![MasterHead](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)]
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
-<h3 align="center">A passionate Backend developer from Mutare, Zimbabwe</h3>
+<h3 align="center">A Passionate Backend Developer</h3>
 
 - 🌱 I’m currently learning **Python-Django**
 
