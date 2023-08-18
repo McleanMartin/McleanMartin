@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Python,Ruby-on-Rails,Flutter-Dart, MySQL & Postgresql,arduino,rasbery pi**
+- 💬 Ask me about **Python,Ruby-on-Rails,Flutter-Dart, MySQL & Postgresql,Arduino,Rasbery Pi**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120**
 
