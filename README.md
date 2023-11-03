@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Python,MySQL & Postgresql,Arduino,Rasbery Pi**
+- 💬 Ask me about **Python,MySQL ,Postgresql,Arduino Projects ,Rasbery Pi Projects**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120**
 
