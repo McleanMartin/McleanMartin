@@ -4,13 +4,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h3 align="center">Full Backend Developer</h3>
 
 - 🌱 I’m currently learning **Python-Django**
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Python,MySQL ,Postgresql,Arduino Projects ,Rasbery Pi Projects**
+- 💬 Ask me about **Python,Postgresql**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120**
 
