@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Postgresql**
 
-- 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120**
+- 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120 - 078 619 5584**
 
 
 
