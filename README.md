@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Python,Postgresql**
+- 💬 Ask me about **Python,Postgresql, Flutter,Linux,Arduino**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || +263 71 330 2120 - 078 619 5584**
 
