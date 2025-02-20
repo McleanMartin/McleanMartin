@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Reactjs,Postgresql, Flutter,Linux,Arduino,KiCAD**
 
-- 📫 How to reach me **chikadayamartin@outlook.com || 078 619 5584**
+- 📫 How to reach me **chikadayamartin@gmail.com || 078 619 5584**
 
 
 
