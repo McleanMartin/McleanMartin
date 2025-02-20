@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
-- 💬 Ask me about **Python,Postgresql, Flutter,Linux,Arduino**
+- 💬 Ask me about **Python,Reactjs,Postgresql, Flutter,Linux,Arduino,KiCAD**
 
 - 📫 How to reach me **chikadayamartin@outlook.com || 078 619 5584**
 
