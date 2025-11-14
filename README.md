@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Martin Chikadaya</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Python-Django**
+- 🌱 Proffessional Programmer **Python-Django**
 
 - 👨‍💻 All of my projects are available at [github.com/McleanMartin](github.com/McleanMartin)
 
