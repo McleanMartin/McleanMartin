@@ -81,16 +81,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/McleanMartin">
-    <img src="https://activity-graph.herokuapp.com/graph?username=McleanMartin&theme=react-dark" alt="Contribution Graph" />
-  </a>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -113,6 +103,5 @@
   
   <p>Thanks for visiting my profile! Have a great day! 😄</p>
   
-  ![Snake animation](https://github.com/McleanMartin/McleanMartin/blob/output/github-contribution-grid-snake.svg)
   
 </div>
