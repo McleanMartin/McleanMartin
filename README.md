@@ -21,8 +21,7 @@
 - 🔭 I'm currently working on **full-stack web applications**
 - 🌱 Professional Programmer specializing in **Python-Django**
 - 👯 I'm looking to collaborate on **open-source projects**
-- 🤔 I'm looking for help with **scaling applications**
-- 💬 Ask me about **Python, Reactjs, PostgreSQL, Flutter, Linux, Arduino, KiCAD**
+- 💬 Ask me about **Python,PostgreSQL, Flutter, Linux, Arduino, KiCAD**
 - 📫 How to reach me: **chikadayamartin@gmail.com** | **078 619 5584**
 - ⚡ Fun fact: **I love electronics and embedded systems!**
 
