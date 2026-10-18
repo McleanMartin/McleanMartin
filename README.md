@@ -15,11 +15,11 @@
 
 ## About Me
 
-- I'm currently building **full-stack web applications** for real businesses — check out my live projects below
+- I'm currently building **full-stack web applications** 
 - Professional Programmer specializing in **Python-Django**
 - I'm looking to collaborate on **open-source projects**
 - Ask me about **Python, PostgreSQL, Flutter, Linux, Arduino, KiCAD**
-- How to reach me: **chikadayamartin@gmail.com** | **078 619 5584**
+- How to reach me: **martin.chikadaya@outlook.com**
 - Fun fact: **I love electronics and embedded systems!**
 
 ---
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Nostal Dropship</h3>
+      <h3>🧾Nostal Dropship</h3>
       <p>A platform that lets car dealer/brokers perform invoicing online, and keep track of their finances.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
