@@ -2,7 +2,7 @@
   <img src="https://tecxar.io/blog/wp-content/uploads/2023/03/cd59d626dc86397fe45080e6e9c7027d.gif" alt="Header GIF" width="100%">
   
   <h1>Hi 👋, I'm Martin Chikadaya</h1>
-  <h3>A passionate Full Stack Developer from Zimbabwe 🇿🇼</h3>
+  <h3>A passionate Full Stack Developer</h3>
   
   <p>
     <a href="https://github.com/McleanMartin?tab=followers">
@@ -13,18 +13,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 Professional Programmer specializing in **Python-Django**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python,PostgreSQL, Flutter, Linux, Arduino, KiCAD**
-- 📫 How to reach me: **chikadayamartin@gmail.com** | **078 619 5584**
-- ⚡ Fun fact: **I love electronics and embedded systems!**
+- I'm currently working on **full-stack web applications**
+- Professional Programmer specializing in **Python-Django**
+- I'm looking to collaborate on **open-source projects**
+- Ask me about **Python,PostgreSQL, Flutter, Linux, Arduino, KiCAD**
+- How to reach me: **chikadayamartin@gmail.com** | **078 619 5584**
+- Fun fact: **I love electronics and embedded systems!**
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/McleanMartin">
@@ -67,7 +67,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
   <a href="https://github.com/McleanMartin">
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:chikadayamartin@gmail.com">
@@ -97,7 +97,7 @@
   
   ### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  <p>Thanks for visiting my profile! Have a great day! 😄</p>
+  <p>Thanks for visiting my profile! Have a great day! </p>
   
   
 </div>
