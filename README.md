@@ -5,9 +5,6 @@
   <h3>A passionate Full Stack Developer from Zimbabwe 🇿🇼</h3>
   
   <p>
-    <a href="https://github.com/McleanMartin">
-      <img src="https://komarev.com/ghpvc/?username=McleanMartin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    </a>
     <a href="https://github.com/McleanMartin?tab=followers">
       <img src="https://img.shields.io/github/followers/McleanMartin?label=Followers&style=social" alt="GitHub Followers">
     </a>
