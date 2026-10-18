@@ -15,12 +15,45 @@
 
 ## About Me
 
-- I'm currently working on **full-stack web applications**
+- I'm currently building **full-stack web applications** for real businesses — check out my live projects below
 - Professional Programmer specializing in **Python-Django**
 - I'm looking to collaborate on **open-source projects**
-- Ask me about **Python,PostgreSQL, Flutter, Linux, Arduino, KiCAD**
+- Ask me about **Python, PostgreSQL, Flutter, Linux, Arduino, KiCAD**
 - How to reach me: **chikadayamartin@gmail.com** | **078 619 5584**
 - Fun fact: **I love electronics and embedded systems!**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 Nostal POS</h3>
+      <p>A web-based point-of-sale system for retail businesses — handling sales, inventory and day-to-day store operations from the browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <a href="https://pos.nostal.co.zw">
+        <img src="https://img.shields.io/badge/Live%20Site-pos.nostal.co.zw-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Nostal POS">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Nostal Dropship</h3>
+      <p>A dropshipping platform that lets sellers list and sell products online without holding stock, with orders routed to suppliers for fulfilment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <a href="https://dropship.nostal.co.zw">
+        <img src="https://img.shields.io/badge/Live%20Site-dropship.nostal.co.zw-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Nostal Dropship">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,6 +131,5 @@
   ### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   <p>Thanks for visiting my profile! Have a great day! </p>
-  
   
 </div>
