@@ -24,13 +24,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧾 Nostal POS</h3>
-      <p>A web-based point-of-sale system for retail businesses — handling sales, inventory and day-to-day store operations from the browser.</p>
+      <p>A point-of-sale system for retail businesses handling sales, inventory and day-to-day store operations.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -41,8 +41,8 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Nostal Dropship</h3>
-      <p>A dropshipping platform that lets sellers list and sell products online without holding stock, with orders routed to suppliers for fulfilment.</p>
+      <h3>Nostal Dropship</h3>
+      <p>A platform that lets car dealer/brokers perform invoicing online, and keep track of their finances.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
